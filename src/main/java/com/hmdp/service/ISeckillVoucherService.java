@@ -9,7 +9,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * </p>
  *
  * @author songml
- * @since 2022-01-04
+ * @since 2022-12-01
  */
 public interface ISeckillVoucherService extends IService<SeckillVoucher> {
 

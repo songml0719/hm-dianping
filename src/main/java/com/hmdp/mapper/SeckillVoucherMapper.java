@@ -9,7 +9,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * </p>
  *
  * @author songml
- * @since 2022-01-04
+ * @since 2022-12-01
  */
 public interface SeckillVoucherMapper extends BaseMapper<SeckillVoucher> {
 

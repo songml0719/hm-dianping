@@ -22,7 +22,7 @@ import static com.hmdp.utils.RedisConstants.SECKILL_STOCK_KEY;
  * </p>
  *
  * @author songml
- * @since 2021-12-22
+ * @since 2022-12-01
  */
 @Service
 public class VoucherServiceImpl extends ServiceImpl<VoucherMapper, Voucher> implements IVoucherService {
